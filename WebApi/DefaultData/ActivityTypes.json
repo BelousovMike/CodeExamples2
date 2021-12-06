@@ -1,0 +1,98 @@
+{
+  "ActivityTypeCatalogModel": {
+    "ActivityTypes": [
+      {
+        "Code": "ADJ",
+        "Description": "Adjust"
+      },
+      {
+        "Code": "ADM",
+        "Description": "Administrate"
+      },
+      {
+        "Code": "ALG",
+        "Description": "Align"
+      },
+      {
+        "Code": "BAL",
+        "Description": "Balance"
+      },
+      {
+        "Code": "CAL",
+        "Description": "Calibrate"
+      },
+      {
+        "Code": "CHG",
+        "Description": "Charge(Batteries)"
+      },
+      {
+        "Code": "CLE",
+        "Description": "Clean"
+      },
+      {
+        "Code": "COM",
+        "Description": "Commission"
+      },
+      {
+        "Code": "CON",
+        "Description": "Condition Monitor"
+      },
+      {
+        "Code": "FLL",
+        "Description": "Fill, Top-Up"
+      },
+      {
+        "Code": "INS",
+        "Description": "Inspect"
+      },
+      {
+        "Code": "LUB",
+        "Description": "Lubricate"
+      },
+      {
+        "Code": "MOD",
+        "Description": "Modificy"
+      },
+      {
+        "Code": "PNT",
+        "Description": "Paint/Coat"
+      },
+      {
+        "Code": "REB",
+        "Description": "Rebuild"
+      },
+      {
+        "Code": "REF",
+        "Description": "Refurbish"
+      },
+      {
+        "Code": "REP",
+        "Description": "Repair"
+      },
+      {
+        "Code": "RPL",
+        "Description": "Replace"
+      },
+      {
+        "Code": "SRV",
+        "Description": "Service"
+      },
+      {
+        "Code": "STA",
+        "Description": "Statutory"
+      },
+      {
+        "Code": "SWO",
+        "Description": "Standing Work Order"
+      },
+      {
+        "Code": "TRQ",
+        "Description": "Torque"
+      },
+      {
+        "Code": "TST",
+        "Description": "Test"
+      }
+    ]
+  }
+}

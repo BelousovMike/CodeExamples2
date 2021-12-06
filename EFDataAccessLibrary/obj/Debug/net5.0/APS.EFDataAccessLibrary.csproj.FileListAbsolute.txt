@@ -1,0 +1,15 @@
+C:\Users\Mikhail\source\repos\backend\EFDataAccessLibrary\bin\Debug\net5.0\APS.EFDataAccessLibrary.deps.json
+C:\Users\Mikhail\source\repos\backend\EFDataAccessLibrary\bin\Debug\net5.0\APS.EFDataAccessLibrary.runtimeconfig.json
+C:\Users\Mikhail\source\repos\backend\EFDataAccessLibrary\bin\Debug\net5.0\APS.EFDataAccessLibrary.runtimeconfig.dev.json
+C:\Users\Mikhail\source\repos\backend\EFDataAccessLibrary\bin\Debug\net5.0\APS.EFDataAccessLibrary.dll
+C:\Users\Mikhail\source\repos\backend\EFDataAccessLibrary\bin\Debug\net5.0\ref\APS.EFDataAccessLibrary.dll
+C:\Users\Mikhail\source\repos\backend\EFDataAccessLibrary\bin\Debug\net5.0\APS.EFDataAccessLibrary.pdb
+C:\Users\Mikhail\source\repos\backend\EFDataAccessLibrary\obj\Debug\net5.0\APS.EFDataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\source\repos\backend\EFDataAccessLibrary\obj\Debug\net5.0\APS.EFDataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\Mikhail\source\repos\backend\EFDataAccessLibrary\obj\Debug\net5.0\APS.EFDataAccessLibrary.AssemblyInfo.cs
+C:\Users\Mikhail\source\repos\backend\EFDataAccessLibrary\obj\Debug\net5.0\APS.EFDataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\backend\EFDataAccessLibrary\obj\Debug\net5.0\APS.EFDataAccessLibrary.dll
+C:\Users\Mikhail\source\repos\backend\EFDataAccessLibrary\obj\Debug\net5.0\ref\APS.EFDataAccessLibrary.dll
+C:\Users\Mikhail\source\repos\backend\EFDataAccessLibrary\obj\Debug\net5.0\APS.EFDataAccessLibrary.pdb
+C:\Users\Mikhail\source\repos\backend\EFDataAccessLibrary\obj\Debug\net5.0\APS.EFDataAccessLibrary.genruntimeconfig.cache
+C:\Users\Mikhail\source\repos\backend\EFDataAccessLibrary\obj\Debug\net5.0\APS.EFDataAccessLibrary.csproj.AssemblyReference.cache

@@ -1,0 +1,26 @@
+{
+  "ResourcingCatalogModel": {
+    "Resources": [
+      {
+        "Code": "FTE",
+        "Description": "Full Time Employee"
+      },
+      {
+        "Code": "INT",
+        "Description": "Internal"
+      },
+      {
+        "Code": "CONT",
+        "Description": "Contractor"
+      },
+      {
+        "Code": "CONS",
+        "Description": "Consultant"
+      },
+      {
+        "Code": "EXT",
+        "Description": "External"
+      }
+    ]
+  }
+}

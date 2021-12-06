@@ -1,0 +1,18 @@
+{
+  "SystemConditionCatalogModel": {
+    "SystemConditions": [
+      {
+        "Code": "R",
+        "Description": "Running"
+      },
+      {
+        "Code": "S",
+        "Description": "Stopped"
+      },
+      {
+        "Code": "A",
+        "Description": "Anytime"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "TacticsTypesOfWorkCatalogModel": {
+    "TacticsTypes": [
+      {
+        "Code": "CBM",
+        "Description": "Condition/Perfomance Based Maintenance"
+      },
+      {
+        "Code": "UBM",
+        "Description": "Usage Based Maintenance"
+      },
+      {
+        "Code": "OTFBM",
+        "Description": "Operate to Failure Based Maintenance"
+      }
+    ]
+  }
+}

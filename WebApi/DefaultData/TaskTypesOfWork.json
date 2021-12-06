@@ -1,0 +1,26 @@
+{
+  "TaskTypesOfWorkCatalogModel": {
+    "TaskTypes": [
+      {
+        "Code": "CDT",
+        "Description": "Condition/Perfomance Detective Task"
+      },
+      {
+        "Code": "CCT",
+        "Description": "Condition Corrective Task"
+      },
+      {
+        "Code": "UCT",
+        "Description": "Usage Corrective Task"
+      },
+      {
+        "Code": "FDT",
+        "Description": "Failure Detective Task"
+      },
+      {
+        "Code": "FCT",
+        "Description": "Failure Corrective Task"
+      }
+    ]
+  }
+}

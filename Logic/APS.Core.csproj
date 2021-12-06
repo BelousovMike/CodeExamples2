@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ExcelDocument\APS MI Groups &amp; Data.xlsx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="ExcelDocument\APS MI Groups &amp; Data.xlsx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\APS.Domain\APS.Domain.csproj" />
+    <ProjectReference Include="..\Doc.Interfaces\APS.PDFConverter.Interfaces.csproj" />
+    <ProjectReference Include="..\EFDataAccessLibrary\APS.EFDataAccessLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ExcelMapper" Version="5.2.314" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Catalogs\ExcelDocument\" />
+    <Folder Include="LoadExcelData\CustomLoaders\" />
+  </ItemGroup>
+
+</Project>

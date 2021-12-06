@@ -1,0 +1,18 @@
+{
+  "ComplianceCatalogModel": {
+    "Compliances": [
+      {
+        "Code": "STA",
+        "Description": "Statutory"
+      },
+      {
+        "Code": "MAN",
+        "Description": "Mandatory"
+      },
+      {
+        "Code": "NOR",
+        "Description": "Normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "UsageCatalogModel": {
+    "Usages": [
+      {
+        "Code": "D",
+        "Description": "Daily"
+      },
+      {
+        "Code": "W",
+        "Description": "Weekly"
+      },
+      {
+        "Code": "h",
+        "Description": "Hourly"
+      },
+      {
+        "Code": "km",
+        "Description": "Kilometers"
+      },
+      {
+        "Code": "t",
+        "Description": "Tonnages"
+      },
+      {
+        "Code": "bcm",
+        "Description": ""
+      },
+      {
+        "Code": "E",
+        "Description": "Events(Defined Shuts, Cyclone etc)"
+      }
+    ]
+  }
+}

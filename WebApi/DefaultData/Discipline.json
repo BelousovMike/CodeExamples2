@@ -1,0 +1,40 @@
+{
+  "DisciplineCatalogModel": {
+    "Disciplines": [
+      {
+        "Code": "ELEC",
+        "CharCode": "E",
+        "Description": "Electrical"
+      },
+      {
+        "Code": "LUBE",
+        "CharCode": "L",
+        "Description": "Lubrication"
+      },
+      {
+        "Code": "MECH",
+        "CharCode": "M",
+        "Description": "Mechanical"
+      },
+      {
+        "Code": "OPER",
+        "CharCode": "O",
+        "Description": "Operations"
+      },
+      {
+        "Code": "CONM",
+        "CharCode": "C",
+        "Description": "Condition Monitoring"
+      },
+      {
+        "Code": "CIV",
+        "CharCode": "C",
+        "Description": "Civil/Structural"
+      },
+      {
+        "Code": "C&I",
+        "Description": "Control and Instrumentation"
+      }
+    ]
+  }
+}

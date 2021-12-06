@@ -1,0 +1,31 @@
+{
+  "AdditionalDisciplineCodeCatalogModel": {
+    "AdditionalDisciplineCodes": [
+      {
+        "Code1": "ELEC-C",
+        "Code2": "E-C",
+        "Description": "Electrical"
+      },
+      {
+        "Code1": "LUBE-C",
+        "Code2": "L-C",
+        "Description": "Lubrication"
+      },
+      {
+        "Code1": "MECH-C",
+        "Code2": "M-C",
+        "Description": "Mechanical"
+      },
+      {
+        "Code1": "OPER-C",
+        "Code2": "O-C",
+        "Description": "Operations"
+      },
+      {
+        "Code1": "CONM-C",
+        "Code2": "C-C",
+        "Description": "Condition Monitoring"
+      }
+    ]
+  }
+}
